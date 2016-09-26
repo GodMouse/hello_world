@@ -1,2 +1,4 @@
 # hello_world
-Just another repository
+Hi,GoMouth.
+What's your name?
+I like code.
